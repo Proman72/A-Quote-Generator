@@ -1,6 +1,7 @@
 body{
     display: grid;
-    place-items: center;    
+    place-items: center;
+    background-image: linear-gradient(#e65c00, #F9D423);  
 }
 
 .entire{
